@@ -15,4 +15,4 @@ Well, Paypal and Cashapp APIs, if I can do that, ,I sort of feel likee this migh
 
 `Is there anything else you'd like your instructor to know?` : pray for me.
 
-![Alt text](pepe-praying-on-bed.png)
+![Alt text](./img/pepe-praying-on-bed.png)
